@@ -23,3 +23,7 @@ dbutils.fs.mount (
 source=source,
 mount_point = mountPoint,
 extra_configs = configs)
+
+# Get all the mounted files
+%fs 
+ls dbfs:/mnt/Files/Validated/
