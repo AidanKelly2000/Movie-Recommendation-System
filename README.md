@@ -7,3 +7,8 @@ end to end Movie recommendation system using Spark ML, which is implemented in A
 - App Registration
     - Client Secrets
 - Key Vaults
+- Logic Apps
+- Data Factories
+    - Data Factory Studio
+        - Pipelines
+        - Get Metadata
